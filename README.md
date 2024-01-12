@@ -2,7 +2,8 @@
 Flask-App-deployment-using-Terraform-in-AWS
 Project #1: Terraform - "Deployment of Flask App using Terraform in AWS"
 Explore the architecture diagram to gain insights into the deployment flow of this application. Follow the steps below to deploy the application:
-![Architecture Diagram](https://github.com/adeelshafi79/Devops-Serverless-Projects.git/Architecture.png)
+![Architecture](https://github.com/adeelshafi79/Devops-Serverless-Projects/assets/49460005/dc01c017-7e08-4f98-9e8f-44940105cb8c)
+
 
 
 1-Clone this repository using the provided URL or SSH.
